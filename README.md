@@ -1,6 +1,6 @@
 # Pequeña página inicial
-Sitio de port-folio personal: pabloalvarez.github.io
+Sitio de port-folio personal: [Mundo Framework](https://medium.com/mundo-framework)
 
 ## Incluye:
 + Enlaces personales.
-+ Actualizador del color.
++ Mini juego, con la brocha que actualiza el color. :)
