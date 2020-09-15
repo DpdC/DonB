@@ -1,7 +1,7 @@
 ## Incluye:
 + Enlaces personales.
-+ Mini juego, con la brocha que actualiza el color. :)
++ Mini juego, con una brocha que actualiza el color del fondo. :)
 
 # Enlaces Personales:
-* Blog Personal: [Mundo Framework Medium](https://medium.com/mundo-framework)
-* Web Mundo Framework: [Mundo Framework Web](https://mundoframework.com)
+* Página web: [Ciberninjas](https://ciberninjas.com)
+* Redes Sociales: [Twitter](https://twitter.com/ciberninjas) / [Comunidad Ciberninjas](https://facebook.com/groups/ciberninjas) / [Telegram](https://t.me/ciberninjas)
